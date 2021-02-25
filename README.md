@@ -18,7 +18,7 @@
 
 ---
 
-### :necktie: Datos del asesor de la materia
+### :necktie: Datos del Alumno
 
 * Numero de control: 18212159
 * Nombre: Mauricio Chavez Arroyo.

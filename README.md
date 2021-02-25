@@ -29,4 +29,4 @@
 
 ### :books: Contenido
 
-1. :book: [C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md](C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md).
+1. :book: [C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md](blog/C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md).

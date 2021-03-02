@@ -32,3 +32,5 @@
 1. :book: [C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md](blog/C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md).
 
 2. :book: [C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md](blog/C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md).
+
+3. :book: [C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md](blog/C1.2_ElectronicaBasica_circuitos_MauricioChavez.md).

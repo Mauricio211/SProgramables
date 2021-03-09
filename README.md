@@ -34,3 +34,6 @@
 2. :book: [C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md](blog/C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md).
 
 3. :book: [C1.2_ElectronicaBasica_circuitos_MauricioChavez.md](blog/C1.2_ElectronicaBasica_circuitos_MauricioChavez.md).
+
+4. :book: [C1.3_CircuitoElectrónicoDivisorDeTensión_MauricioChavez.md](blog/C1.3_CircuitoElectrónicoDivisorDeTensión_MauricioChavez.md).
+

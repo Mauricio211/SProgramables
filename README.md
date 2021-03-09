@@ -29,11 +29,11 @@
 
 ### :books: Contenido
 
-1. :book: [C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md](blog/C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md).
+1. :book: [C0.1_IntegrarEquiposDeTrabajo.md](blog/C0.1_IntegrarEquiposDeTrabajo_MauricioChavezArroyo.md).
 
-2. :book: [C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md](blog/C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md).
+2. :book: [C1.1_CuestionarioElectrónicaBásicaYSusElementos.md](blog/C1.1_CuestionarioElectrónicaBásicaYSusElementos_MauricioChavezArroyo.md).
 
-3. :book: [C1.2_ElectronicaBasica_circuitos_MauricioChavez.md](blog/C1.2_ElectronicaBasica_circuitos_MauricioChavez.md).
+3. :book: [C1.2_ElectronicaBasica_circuitos.md](blog/C1.2_ElectronicaBasica_circuitos_MauricioChavez.md).
 
-4. :book: [C1.3_CircuitoElectrónicoDivisorDeTensión_MauricioChavez.md](blog/C1.3_CircuitoElectrónicoDivisorDeTensión_MauricioChavez.md).
+4. :book: [C1.3_CircuitoElectrónicoDivisorDeTensión.md](blog/C1.3_CircuitoElectrónicoDivisorDeTensión_MauricioChavez.md).
 

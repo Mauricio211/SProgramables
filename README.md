@@ -37,3 +37,5 @@
 
 4. :book: [C1.3_CircuitoElectrónicoDivisorDeTensión.md](blog/C1.3_CircuitoElectrónicoDivisorDeTensión_MauricioChavez.md).
 
+5. :book: [A1.2_DytechWolf.md](docs/A1.2_MauricioChavez_DytechWolf.md).
+

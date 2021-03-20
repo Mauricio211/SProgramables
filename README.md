@@ -39,3 +39,4 @@
 
 5. :book: [A1.2_DytechWolf.md](docs/A1.2_MauricioChavez_DytechWolf.md).
 
+6. :book: [C1.4_AcondicionadorDeSenalAmOP.md](blog/C1.4_AcondicionadorDeSenalAmOP_MauricioChavez.md).

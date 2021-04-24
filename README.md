@@ -45,4 +45,4 @@
 
 8. :book: [A1.4_DytechWolf.md](docs/A1.4_DytechWolf.md).
 
-9. :book: [C2.1_ActuadoresNeumaticosHidraulicos_MauricioChavez.md](blog/C2.1_ActuadoresNeumaticosHidraulicos_MauricioChavez.md).
+9. :book: [C2.1_ActuadoresNeumaticosHidraulicos.md](blog/C2.1_ActuadoresNeumaticosHidraulicos_MauricioChavez.md).

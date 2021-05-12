@@ -47,9 +47,9 @@
 
 9. :book: [C2.1_ActuadoresNeumaticosHidraulicos.md](blog/C2.1_ActuadoresNeumaticosHidraulicos_MauricioChavez.md).
 
-10. :book: [C2.2_ActuadoresElectricos_MauricioChavez.md](blog/C2.2_ActuadoresElectricos_MauricioChavez.md).
+10. :book: [C2.2_ActuadoresElectricos.md](blog/C2.2_ActuadoresElectricos_MauricioChavez.md).
 
 11. :book: [A2.1_DytechWolf.md](docs/A2.1_MauricioChavez_DytechWolf.md).
 
-12. :book: [C2.3_CircuitoTemporizador555_MauricioChavez.md](blog/C2.3_CircuitoTemporizador555_MauricioChavez.md).
+12. :book: [C2.3_CircuitoTemporizador555.md](blog/C2.3_CircuitoTemporizador555_MauricioChavez.md).
 

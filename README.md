@@ -51,3 +51,5 @@
 
 11. :book: [A2.1_DytechWolf.md](docs/A2.1_MauricioChavez_DytechWolf.md).
 
+12. :book: [C2.2_ActuadoresElectricos_MauricioChavez.md](blog/C2.2_ActuadoresElectricos_MauricioChavez.md).
+

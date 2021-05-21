@@ -57,3 +57,4 @@
 
 14. :book: [C3.1_ArduinoIDE_SalidaDigital.md](blog/C3.1_ArduinoIDE_SalidaDigital_MauricioChavez.md).
 
+15. :book: [C3.2_ArduinoIDE_EntradaDigitalImpresionSerial.md](blog/C3.2_ArduinoIDE_EntradaDigitalImpresionSerial_MauricioChavez.md).

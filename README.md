@@ -61,7 +61,7 @@
 
 15. :book: [C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial.md](blog/C3.3_ArduinoIDE_EntradaAnalogaFuncionSerial_MauricioChavez.md).
 
-16. :book: [C3.4_ArduinoIDE_EntradaSalida,SensoryFuncionSerial.md](blog/C3.4_MauricioChavez_DytechWol.md).
+16. :book: [C3.4_ArduinoIDE_EntradaSalida,SensoryFuncionSerial.md](blog/C3.4_MauricioChavez_DytechWolf.md).
 
 17. :book: [A3.1_DytechWolf.md](docs/A3.1_MauricioChavez_DytechWolf.md).
 

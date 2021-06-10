@@ -65,3 +65,8 @@
 
 17. :book: [A3.1_DytechWolf.md](docs/A3.1_MauricioChavez_DytechWolf.md).
 
+18. :book: [A3.2_DytechWolf.md](docs/A3.2_MauricioChavez_DytechWolf.md).
+
+19. :book: [A3.3_DytechWolf.md](docs/A3.3_MauricioChavez_DytechWolf.md).
+
+
